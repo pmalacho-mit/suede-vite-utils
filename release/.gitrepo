@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/ingydotnet/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/pmalacho-mit/suede-vite-utils
+	branch = release
+	commit = c47614d3c5455edb3c97a32cfabefb3abdebfcaf
+	parent = 5fb198fa5a12bc1bf91296fbac419edbe76ea71e
+	method = merge
+	cmdver = 0.4.9
