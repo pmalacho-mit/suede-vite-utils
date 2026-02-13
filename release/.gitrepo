@@ -6,7 +6,7 @@
 [subrepo]
 	remote = https://github.com/pmalacho-mit/suede-vite-utils
 	branch = release
-	commit = c47614d3c5455edb3c97a32cfabefb3abdebfcaf
-	parent = 5fb198fa5a12bc1bf91296fbac419edbe76ea71e
+	commit = 52b6b5886cf8286d43509b0951bcfcaa625f243e
+	parent = de69089d51c382fd210b065f96b0a1fb8a3e8ac9
 	method = merge
 	cmdver = 0.4.9
